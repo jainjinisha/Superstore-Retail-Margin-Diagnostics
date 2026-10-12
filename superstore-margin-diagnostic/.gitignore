@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints*/
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Large raw data (optional: if original raw files exceed GitHub's 100MB limit)
+# data/raw/*.csv
